@@ -33,6 +33,7 @@ export interface Product {
     withdrawal_status: string;
   };
 
+  
   settling_asset: {
     id: number;
     symbol: string;
